@@ -50,7 +50,7 @@ const App = () => {
           <div className=" text-lg">Dev: Christian John Roa</div>
         </div>
 
-        {/* Display of data */}
+        {/* Display of datas */}
         <div className="flex justify-center items-center bg-neutral-300 rounded-lg ">
           <div className="text-md ">
             {restaurantData.length ? (
